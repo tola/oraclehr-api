@@ -1,0 +1,1 @@
+public record SeedUserRequest(string Username, string Password, string Role);
